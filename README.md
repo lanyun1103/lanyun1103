@@ -1,33 +1,30 @@
-### Hi there 👋
+### 👋 Hey there, I'm lanyun1103!
 
-Hi, here is lanyun1103.
+🚀 **About Me:**
+- 🌞 By day: Algorithm Engineer weaving magic with data and algorithms.
+- 🌜 By night: Full-Stack Engineer, crafting seamless and engaging digital experiences.
+- 🌏 Fluent in a blend of languages, both technical and human:
+  - 💻 Tech: Python 🐍, Java ☕, TypeScript ⌨️, C++ 💡
+  - 🗣 Human: Chinese 🇨🇳, English 🇬🇧
 
-I am a algorithm engineer by day, full-stack engineer by night.
+### 😄 Pronouns: he/him
 
-🙀Language:
-1. Python
-2. Java
-3. Typescript
-4. C++
-5. Chinese
-6. English
+🔭 **Currently Working On:**
+- Exploring the uncharted territories of WebAssembly (WASM) development.
+- Building innovative applications powered by Large Language Models (LLMs).
+- Constantly pushing the boundaries of algorithms to solve complex problems.
 
-😋Interested in:
-1. WASM develop
-2. App based on LLM
-3. Algorithm
+### 🌱 I’m currently learning:
+- Advanced concepts in Knowledge graph.
+- Latest trends in LLM.
 
-<!--
-**lanyun1103/lanyun1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💬 Ask me about:
+- Anything related to my tech stack!
+- The thrill of solving complex algorithmic challenges.
+- Balancing the art of coding between backend algorithms and frontend wizardry.
 
-Here are some ideas to get you started:
+### 📫 How to reach me:
+- 4737557@qq.com
+- https://twitter.com/lanyun1103
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
